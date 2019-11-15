@@ -1,0 +1,23 @@
+{
+  "name": "examen",
+  "version": "0.0.1",
+  "description": "Examen del primer parcial de Plataformas Web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btapiaf/ExamenPla_W.git"
+  },
+  "author": "Boris Tapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btapiaf/ExamenPla_W/issues"
+  },
+  "homepage": "https://github.com/btapiaf/ExamenPla_W#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "yargs": "^14.2.0"
+  }
+}
